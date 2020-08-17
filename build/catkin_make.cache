@@ -1,0 +1,2 @@
+pkg_name_jeff_tf_learn
+-DCATKIN_DEVEL_PREFIX=/home/jeff/ws/simulation_pid_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jeff/ws/simulation_pid_ws/install -G Unix Makefiles

@@ -1,0 +1,13 @@
+<launch>
+
+<node pkg="tf" type="static_transform_publisher" name="set_fix_frame" 
+    args="1 0 0 0 0 0 1 map base_link 50" >
+</node>
+
+
+<node pkg="pkg_name_jeff_tf_learn" type="cmake_list_name_move" name="node_name_arrow_car"
+    clear_params="true" output="screen">
+</node>
+
+
+</launch>

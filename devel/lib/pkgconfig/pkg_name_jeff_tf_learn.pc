@@ -1,0 +1,8 @@
+prefix=/home/jeff/ws/simulation_pid_ws/devel
+
+Name: pkg_name_jeff_tf_learn
+Description: Description of pkg_name_jeff_tf_learn
+Version: 0.0.0
+Cflags: -I/home/jeff/ws/simulation_pid_ws/src/pkg_name_jeff_tf_learn/include
+Libs: -L${prefix}/lib -lpkg_name_jeff_tf_learn
+Requires: roscpp rospy tf turtlesim

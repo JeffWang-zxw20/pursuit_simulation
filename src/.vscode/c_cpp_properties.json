@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/melodic/include/**",
+                "/home/jeff/ws/rc_1_ws/miniq9/src/mavros_test1/include/**",
+                "/home/jeff/ws/rc_1_ws/miniq9/src/mocap_optitrack/include/**",
+                "/home/jeff/ws/rc_1_ws/miniq9/src/mpcc_planner/include/**",
+                "/home/jeff/ws/rc_1_ws/miniq9/src/osqp_interface/include/**",
+                "/home/jeff/ws/simulation_pid_ws/src/pkg_name_jeff_tf_learn/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
